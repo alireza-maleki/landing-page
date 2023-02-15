@@ -1,0 +1,24 @@
+.footer-icon {
+    margin: 0 8px;
+    font-size: 24px;
+    color: rgba(1, 41, 122, 0.5);
+}
+
+.lists {
+    list-style: none;
+}
+
+.lists a {
+    text-decoration: none;
+    color: #000;
+    font-size: 12px;
+}
+
+.lists a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.arrow {
+    font-size: 10px;
+}

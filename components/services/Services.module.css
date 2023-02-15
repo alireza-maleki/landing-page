@@ -1,0 +1,133 @@
+/* Services Box Blue */
+.services-box-blue {
+    box-shadow: 0 0 30px rgba(1, 41, 112, 0.08);
+    padding: 60px 28px;
+    text-align: center;
+    border-radius: 5px;
+    border-bottom: 3px solid #2db6fa;
+    transition: all 0.5s;
+}
+
+.icon-blue {
+    font-size: 80px;
+    padding: 20px;
+    color: #2db6fa;
+    background-color: #dbf3fe;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.arrow-icon {
+    font-size: 18px;
+    line-height: 0;
+    margin-right: 0.5rem;
+}
+
+.more-blue {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+    color: #2db6fa;
+}
+
+.blue:hover {
+    background-color: #2db6fa;
+    color: #fff;
+}
+
+.blue:hover .more-blue {
+    color: #fff;
+}
+
+
+/* Services Box Orange */
+.services-box-orange {
+    box-shadow: 0 0 30px rgba(1, 41, 112, 0.08);
+    padding: 60px 28px;
+    text-align: center;
+    border-radius: 5px;
+    border-bottom: 3px solid #f68c09;
+    transition: all 0.5s;
+}
+
+.icon-orange {
+    font-size: 80px;
+    padding: 20px;
+    color: #f68c09;
+    background-color: #fde3c4;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.arrow-icon {
+    font-size: 18px;
+    line-height: 0;
+    margin-right: 0.5rem;
+}
+
+.more-orange {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+    color: #f68c09;
+}
+
+.orange:hover {
+    background-color: #f68c09;
+    color: #fff;
+}
+
+.orange:hover .more-orange {
+    color: #fff;
+}
+
+
+/* Services Box Green */
+.services-box-green {
+    box-shadow: 0 0 30px rgba(1, 41, 112, 0.08);
+    padding: 60px 28px;
+    text-align: center;
+    border-radius: 5px;
+    border-bottom: 3px solid #08da4e;
+    transition: all 0.5s;
+}
+
+.icon-green {
+    font-size: 80px;
+    padding: 20px;
+    color: #08da4e;
+    background-color: #cffddf;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.arrow-icon {
+    font-size: 18px;
+    line-height: 0;
+    margin-right: 0.5rem;
+}
+
+.more-green {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+    color: #08da4e;
+}
+
+.green:hover {
+    background-color: #08da4e;
+    color: #fff;
+}
+
+.green:hover .more-green {
+    color: #fff;
+}

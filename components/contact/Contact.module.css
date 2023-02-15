@@ -1,0 +1,24 @@
+.contact {
+    background-color: #fafbff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.icons {
+    margin-bottom: 20px;
+    font-size: 38px;
+    line-height: 0;
+    color: #4154f1;
+}
+
+.cellphone {
+    direction: ltr;
+    text-align: right;
+}
+
+.form-contact {
+    background-color: #fafbff;
+    padding: 30px;
+    height: 100%;
+    border-radius: 10px;
+}
